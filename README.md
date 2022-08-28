@@ -1,2 +1,2 @@
 # my-first-github-repository
-Updated manually
+Updated manually from github gui
